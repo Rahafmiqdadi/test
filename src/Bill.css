@@ -1,0 +1,14 @@
+.text-center {
+    text-align: center ; }
+
+    .flex-container {
+   
+       
+        height: 100px;
+        flex-direction:row;
+    flex-wrap: wrap  ;
+    align-items: center;
+    justify-content: space-around ;
+    
+    }
+      
