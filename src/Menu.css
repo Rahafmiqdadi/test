@@ -1,0 +1,47 @@
+
+
+.text-center {
+text-align: center ; 
+
+}
+
+.ListItems span{
+
+display: inline-block;
+text-align: center ; 
+ padding: 10px ;
+font-size: 20px;
+border: 0.3px solid #ccc 
+}
+
+.flex-container {
+
+    display: flex;
+    flex-direction:row;
+    /* flex-wrap: wrap;
+    align-content: space-between; */
+
+}
+  .flex-container > div  {
+    background-color :rgba(252, 164, 2, 0.897);
+   color:#ffff;
+    width: 100px;
+    height: 90px;
+    margin-left: 30%;
+    margin-top: 60px;
+   line-height: 50px;
+    font-size: 10px; 
+     /* flex-wrap:wrap-reverse;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    align-content: space-between; */
+
+}
+   
+.button{
+color: rgb(242, 242, 247);
+background-color:rgba(252, 164, 2, 0.897);
+
+
+
+}
